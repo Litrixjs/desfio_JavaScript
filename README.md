@@ -1,7 +1,8 @@
 # Introducao_ao_javaScript.
- ##Primeiro desafio To-do_list, da Prof: Stephany.
 
- #Contador:
+ ## Primeiro desafio To-do_list, da Prof: Stephany.
+
+ # Contador:
 
  Neste projeto, fiz a primeira integração de um código Javascript com uma página HTML.
 
